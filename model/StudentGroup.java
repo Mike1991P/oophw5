@@ -2,7 +2,8 @@ package org.example.model;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//TODO
+//Создание класса УчебнаяГруппа, содержащий в себе поля Преподаватель и список Студентов;
 public class StudentGroup {
     private Teacher teacher;
     private Integer numberGroup;
